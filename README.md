@@ -2,7 +2,7 @@
 
 A web-based task management application developed using Spring Boot. The application enables users to manage daily tasks through a web interface, demonstrating core concepts of Spring MVC, Spring Data JPA, database integration, and server-side rendering with Thymeleaf.
 
-## Features
+## Features:
 
 - **Task Management:** Create, view, and delete tasks.
 - **Task Status Management:** Update task status as supported by the application.
@@ -11,7 +11,7 @@ A web-based task management application developed using Spring Boot. The applica
 - **Dynamic Web Interface:** Render application pages using Thymeleaf.
 - **Data Persistence:** Use Spring Data JPA and Hibernate for database operations.
 
-## Technology Stack
+## Technology Stack:
 
 | Category | Technology |
 |---|---|
@@ -25,7 +25,7 @@ A web-based task management application developed using Spring Boot. The applica
 | Build Tool | Maven |
 | Development Environment | IntelliJ IDEA |
 
-## Project Structure
+## Project Structure:
 
     todo-app-spring-boot/
     ├── src/
@@ -44,7 +44,7 @@ A web-based task management application developed using Spring Boot. The applica
     ├── pom.xml
     └── README.md
 
-## Prerequisites
+## Prerequisites:
 
 Ensure the following software is installed:
 
@@ -53,7 +53,7 @@ Ensure the following software is installed:
 - IntelliJ IDEA or another Java IDE
 - Maven, if not using the Maven Wrapper
 
-## Getting Started
+## Getting Started:
 
 ### 1. Clone the Repository
 
@@ -85,7 +85,7 @@ Open the following address in your browser after the application starts:
 
     http://localhost:8080
 
-## Key Concepts Demonstrated
+## Key Concepts Demonstrated:
 
 - Spring Boot application configuration
 - Model–View–Controller (MVC) architecture
@@ -96,7 +96,7 @@ Open the following address in your browser after the application starts:
 - Dynamic HTML rendering using Thymeleaf
 - Maven dependency management
 
-## Future Enhancements
+## Future Enhancements:
 
 - Task deadlines and priority levels
 - Task search and filtering
@@ -104,12 +104,12 @@ Open the following address in your browser after the application starts:
 - Responsive UI improvements
 - Task completion filters
 
-## Author
+## Author:
 
 **Suhani Kumari**
 
 GitHub: https://github.com/suhani178
 
-## License
+## License:
 
 This project is intended for educational and portfolio purposes.
